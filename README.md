@@ -2,6 +2,7 @@
 **Relational Model For ER-Diagram**
 
 **i.	Customer has an Address:**
+
 ![image](https://github.com/Mahareeb/i211564_i212752_Assignment_2_CY_T_DB/assets/122688432/75c1495c-f1a2-4a59-80fa-6f496c979217)
  
 Customer(CustomerID, FName, LName, Email, PhoneNo, Password)
